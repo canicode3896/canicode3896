@@ -2,6 +2,7 @@ nav {
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: space-between;
     background-color: #383838;
 }
 
@@ -17,4 +18,5 @@ nav div {
     display: flex;
     flex-direction: row;
     justify-content: right;
+    margin-right: 40px;
 }
