@@ -1,0 +1,11 @@
+nav {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 4px;
+    background-color: rgb(65, 65, 65);
+}
+
+nav h1 {
+    margin: 0px;
+}
