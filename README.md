@@ -1,5 +1,5 @@
-# Hello
-### This is my personal repo
----
-It has links to my personal website: [website](https://canicode3896.github.io/canicode3896/)
-And my profile: [profile](https://github.com/canicode3896) 
+# Can I Code 3896
+This my personal website - it list all of my repositories and projects
+## Projects
+| Name | Location |
+|------|----------|
