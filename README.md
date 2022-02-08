@@ -1,4 +1,4 @@
-This my personal website - it list all of my repositories and projects
+This my personal page - it list all of my repositories and projects
 ## Projects
 | Name | Location |
 | ---- | -------- |
